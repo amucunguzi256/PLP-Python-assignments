@@ -1,0 +1,15 @@
+
+ If you're the YouTube type:
+    subscribe to CS50's channel at youtube.com/cs50
+If you're the TikTok type:
+    follow @cs50
+    follow @davidjmalan
+If you're the LinkedIn type:
+    connect with (and say hello to!) David at linkedin.com/in/malan
+If you're the Instagram type:
+    follow cs50
+    follow (and say hello to!) davidjmalan
+If you're the Twitter type:
+    follow @cs50
+    say hello to classmates with hashtag #cs50
+    follow (and say hello to!) @davidjmalan
